@@ -1,0 +1,539 @@
+[
+  {
+  "name" : "pichenettes",
+  "urls" : ["https://github.com/pichenettes"],
+  "descriptions" : ["Mutable Instruments / émilie gillet"],
+  "repos": [{
+    "name" : "pichenettes/eurorack",
+    "url" : "https://github.com/pichenettes/eurorack",
+    "links" : [],
+    "descriptions" : [
+      "Blinds: Quad VC-polarizer.",
+      "Braids: Macro-oscillator. ",
+      "Branches: Dual Bernoulli gate.",
+      "Clouds: Texture synthesizer.",
+      "Ears: Contact microphone. ",
+      "Edges: Quad chiptune digital oscillator.",
+      "Elements: Modal synthesizer.",
+      "Frames: Keyframer/mixer.",
+      "Grids: Topographic drum sequencer.",
+      "Kinks: Utility module - rectifier, analog logic, S&H, noise.",
+      "Links: Utility module - buffer, mixer.",
+      "Marbles: Random sampler.",
+      "Peaks: Dual trigger converter.",
+      "Plaits: Macro oscillator. ",
+      "Rings: Resonator. ",
+      "Ripples: Liquid 2-pole BP, 2-pole LP and 4-pole LP filter.",
+      "Shades: Triple attenuverter.",
+      "Shelves: EQ filter. ",
+      "Stages: Segment generator.",
+      "Streams: Dual dynamics gate.",
+      "Tides: Tidal modulator. ",
+      "Veils: Quad VCA.",
+      "Volts: +5V power module.",
+      "Warps: Meta-modulator.",
+      "Yarns: MIDI interface."
+    ],
+    "images" :  [
+      {
+        "name": "blinds",
+        "url": "https://mutable-instruments.net/modules/blinds/images/front_small.jpg",
+        "description": "Quad VC-polarizer"
+      },
+      {
+        "name": "braids",
+        "url": "https://mutable-instruments.net/modules/braids/images/front_small.jpg",
+        "description": "Macro-oscillator"
+      },
+      {
+        "name": "branches",
+        "url": "https://mutable-instruments.net/modules/branches/images/front_small.jpg",
+        "description": "Dual Bernoulli gate"
+      },
+      {
+        "name": "clouds",
+        "url": "https://mutable-instruments.net/modules/clouds/images/front_small.jpg",
+        "description": "Texture synthesizer"
+      },
+      {
+        "name": "ears",
+        "url": "https://mutable-instruments.net/modules/ears/images/front_small.jpg",
+        "description": "Contact microphone"
+      },
+      {
+        "name": "edges",
+        "url": "https://mutable-instruments.net/modules/edges/images/front_small.jpg",
+        "description": "Quad chiptune digital oscillator"
+      },
+      {
+        "name": "elements",
+        "url": "https://mutable-instruments.net/modules/elements/images/front_small.jpg",
+        "description": "Modal synthesizer"
+      },
+      {
+        "name": "frames",
+        "url": "https://mutable-instruments.net/modules/frames/images/front_small.jpg",
+        "description": "Keyframer/mixer"
+      },
+      {
+        "name": "grids",
+        "url": "https://mutable-instruments.net/modules/grids/images/front_small.jpg",
+        "description": "Topographic drum sequencer"
+      },
+      {
+        "name": "kinks",
+        "url": "https://mutable-instruments.net/modules/kinks/images/front_small.jpg",
+        "description": "Utility module - rectifier, analog logic, S&H, noise"
+      },
+      {
+        "name": "links",
+        "url": "https://mutable-instruments.net/modules/links/images/front_small.jpg",
+        "description": "Utility module - buffer, mixer"
+      },
+      {
+        "name": "marbles",
+        "url": "https://mutable-instruments.net/modules/marbles/images/front_small.jpg",
+        "description": "Random sampler"
+      },
+      {
+        "name": "peaks",
+        "url": "https://mutable-instruments.net/modules/peaks/images/front_small.jpg",
+        "description": "Dual trigger converter"
+      },
+      {
+        "name": "plaits",
+        "url": "https://mutable-instruments.net/modules/plaits/images/front_small.jpg",
+        "description": "Macro oscillator."
+      },
+      {
+        "name": "rings",
+        "url": "https://mutable-instruments.net/modules/rings/images/front_small.jpg",
+        "description": "Resonator"
+      },
+      {
+        "name": "ripples",
+        "url": "https://mutable-instruments.net/modules/ripples/images/front_small.jpg",
+        "description": "Liquid 2-pole BP, 2-pole LP and 4-pole LP filter"
+      },
+      {
+        "name": "shades",
+        "url": "https://mutable-instruments.net/modules/shades/images/front_small.jpg",
+        "description": "Triple attenuverter"
+      },
+      {
+        "name": "shelves",
+        "url": "https://mutable-instruments.net/modules/shelves/images/front_small.jpg",
+        "description": "EQ filter"
+      },
+      {
+        "name": "stages",
+        "url": "https://mutable-instruments.net/modules/stages/images/front_small.jpg",
+        "description": "Segment generator"
+      },
+      {
+        "name": "streams",
+        "url": "https://mutable-instruments.net/modules/streams/images/front_small.jpg",
+        "description": "Dual dynamics gate"
+      },
+      {
+        "name": "tides",
+        "url": "https://mutable-instruments.net/modules/tides/images/front_small.jpg",
+        "description": "Tidal modulator"
+      },
+      {
+        "name": "veils",
+        "url": "https://mutable-instruments.net/modules/veils/images/front_small.jpg",
+        "description": "Quad VCA"
+      },
+      {
+        "name": "warps",
+        "url": "https://mutable-instruments.net/modules/warps/images/front_small.jpg",
+        "description": "Meta-modulator"
+      },
+      {
+        "name": "yarns",
+        "url": "https://mutable-instruments.net/modules/yarns/images/front_small.jpg",
+        "description": "MIDI interface"
+      }
+    ]
+  }]
+},
+  {
+  "name" : "shaduzlabs",
+  "urls" : ["https://github.com/shaduzlabs"],
+  "descriptions" : [],
+  "repos": [{
+    "name" : "shaduzlabs/synapse",
+    "url" : "https://github.com/shaduzlabs/synapse",
+    "links" : ["http://ornament-and-cri.me/hardware-basics/"],
+    "descriptions" : [
+      "Synapse is an Arduino shield (and corresponding library) which provides CV and Gate I/O for Arduino boards."
+    ],
+    "images" : []
+  }]
+},
+  {
+  "name" : "mxmxmx",
+  "urls" : ["https://github.com/mxmxmx"],
+  "descriptions" : [],
+  "repos":
+  [
+    {
+      "name": "mxmxmx/O_C",
+      "url" : "https://github.com/mxmxmx/O_C",
+      "links" : ["http://ornament-and-cri.me/hardware-basics/"],
+      "descriptions" : [
+        "Synapse is an Arduino shield (and corresponding library) which provides CV and Gate I/O for Arduino boards."
+      ]
+    },
+    {
+      "name": "mxmxmx/CV2Midi",
+      "url" : "https://github.com/mxmxmx/CV2Midi",
+      "links" : [],
+      "descriptions" : [
+        "5 channel CV|midi converter"
+      ]
+    },
+    {
+      "name": "mxmxmx/minitrash",
+      "url" : "https://github.com/mxmxmx/minitrash",
+      "links" : [],
+      "descriptions" : [
+        "6HP teensy 3.1 / wm8731 codec thingie"
+      ]
+    },
+    {
+      "name": "mxmxmx/CV2Midi",
+      "url" : "https://github.com/mxmxmx/CV2Midi",
+      "links" : ["5 channel CV|midi converter"],
+      "descriptions" : [
+        "5 channel CV|midi converter"
+      ]
+    }
+  ]
+},
+  {
+    "name" : "bastl-instruments",
+    "urls" : ["https://github.com/bastl-instruments"],
+    "descriptions" : [],
+    "repos": [{
+      "name" : "bastl-instruments/eurorack",
+      "url" : "https://github.com/bastl-instruments/eurorack",
+      "links" : [],
+      "descriptions" : [],
+      "images" : []
+    }]
+  },
+  {
+    "name" : "kweiwen",
+    "urls" : ["https://github.com/kweiwen"],
+    "descriptions" : [],
+    "repos": [{
+      "name" : "kweiwen/benjolin",
+      "url" : "https://github.com/kweiwen/benjolin",
+      "links" : [],
+      "descriptions" : [],
+      "images" : []
+      },
+      {
+        "name" : "kweiwen/thinks",
+        "url" : "https://github.com/kweiwen/thinks",
+        "links" : [],
+        "descriptions" : [],
+        "images" : []
+      }]
+  },
+  {
+    "name" : "cutlasses",
+    "urls" : ["https://github.com/cutlasses"],
+    "descriptions" : [],
+    "repos": [{
+      "name" : "AudioFreezeV2",
+      "url" : "https://github.com/cutlasses/AudioFreezeV2",
+      "links" : [],
+      "descriptions" : [],
+      "images" : []
+    }]
+  },
+  {
+    "name" : "jamescarruthers",
+    "urls" : ["https://github.com/jamescarruthers"],
+    "descriptions" : [],
+    "repos": [
+      {
+        "name" : "Eagle libraries",
+        "url" : "https://github.com/jamescarruthers/Eagle",
+        "links" : [],
+        "descriptions" : [],
+        "images" : []
+      },
+      {
+        "name" : "audioplayground",
+        "url" : "https://github.com/jamescarruthers/audioplayground",
+        "links" : [],
+        "descriptions" : [],
+        "images" : []
+      }]
+  },
+  {
+    "name" : "mattb",
+    "urls" : ["https://github.com/mattb"],
+    "descriptions" : [],
+    "repos": [{
+      "name" : "teensy-cv",
+      "url" : "https://github.com/mattb/teensy-cv",
+      "links" : [],
+      "descriptions" : [],
+      "images" : []
+    }]
+  },
+  {
+    "name" : "little-scale",
+    "urls" : ["https://github.com/little-scale"],
+    "descriptions" : [],
+    "repos": [{
+      "name" : "eurorack",
+      "url" : "https://github.com/little-scale/eurorack",
+      "links" : [],
+      "descriptions" : [],
+      "images" : []
+    }]
+  },
+  {
+    "name" : "ThoEvans",
+    "urls" : ["https://github.com/ThoEvans"],
+    "descriptions" : [],
+    "repos": [{
+      "name" : "Eurorack",
+      "url" : "https://github.com/ThoEvans/Eurorack",
+      "links" : [],
+      "descriptions" : [],
+      "images" : []
+    }]
+  },
+  {
+    "name" : "nickajeglin",
+    "urls" : ["https://github.com/nickajeglin"],
+    "descriptions" : [],
+    "repos": [{
+      "name" : "Eurorack-pcbs",
+      "url" : "https://github.com/nickajeglin/Eurorack-pcbs",
+      "links" : ["http://ornament-and-cri.me/hardware-basics/"],
+      "descriptions" : [
+        "Synapse is an Arduino shield (and corresponding library) which provides CV and Gate I/O for Arduino boards."
+      ],
+      "images" : []
+    }]
+  },
+  {
+    "name" : "ctag-fh-kiel",
+    "urls" : ["https://github.com/ctag-fh-kiel"],
+    "descriptions" : [],
+    "repos": [{
+      "name" : "esp32-eurorack-audio",
+      "url" : "https://github.com/ctag-fh-kiel/esp32-eurorack-audio",
+      "links" : ["http://ornament-and-cri.me/hardware-basics/"],
+      "descriptions" : [
+        "Synapse is an Arduino shield (and corresponding library) which provides CV and Gate I/O for Arduino boards."
+      ],
+      "images" : []
+    }]
+  },
+  {
+    "name" : "deladriere",
+    "urls" : ["https://github.com/deladriere"],
+    "descriptions" : [],
+    "repos": [
+      {
+      "name" : "euro-modules",
+      "url" : "https://github.com/deladriere/euro-modules",
+      "links" : [],
+      "descriptions" : [],
+      "images" : []
+    }]
+  },
+  {
+    "name" : "minisystem",
+    "urls" : ["https://github.com/minisystem"],
+    "descriptions" : [],
+    "repos": [{
+      "name" : "Eurorack",
+      "url" : "https://github.com/minisystem/Eurorack",
+      "links" : [],
+      "descriptions" : [],
+      "images" : []
+    }]
+  },
+  {
+    "name" : "TomWhitwell",
+    "urls" : ["https://github.com/TomWhitwell"],
+    "descriptions" : [],
+    "repos": [{
+      "name" : "TH-VCO1",
+      "url" : "https://github.com/TomWhitwell/TH-VCO1",
+      "links" : [],
+      "descriptions" : [
+        "Eurorack Layout for the Thomas Henry VCO 1 Oscillator"
+      ],
+      "images" : []
+    }]
+  },
+  {
+    "name" : "forestcaver",
+    "urls" : ["https://github.com/shaduzlabs"],
+    "descriptions" : [],
+    "repos": [{
+      "name" : "Analog-Voice",
+      "url" : "https://github.com/forestcaver/Analog-Voice",
+      "links" : ["http://ornament-and-cri.me/hardware-basics/"],
+      "descriptions" : [ "analog voice modules" ],
+      "images" : []
+    }]
+  },
+  {
+    "name" : "erica-synths",
+    "urls" : ["https://github.com/erica-synths"],
+    "descriptions" : [],
+    "repos": [
+      {
+        "name" : "diy-eurorack",
+        "url" : "https://github.com/erica-synths/diy-eurorack",
+        "links" : [],
+        "descriptions" : [
+          "Erica Synths DIY Eurorack Modules"
+        ],
+        "images" : []
+      }]
+  },
+  {
+    "name" : "16n-faderbank",
+    "urls" : ["https://github.com/16n-faderbank"],
+    "descriptions" : [],
+    "repos": [{
+      "name" : "16n",
+      "url" : "https://github.com/16n-faderbank/16n",
+      "links" : [],
+      "descriptions" : [
+        "Sixteen faders, a Teensy, MIDI over USB and jack, CV out, and I2C out"
+      ],
+      "images" : []
+    }]
+  },
+  {
+    "name" : "jkrame1",
+    "urls" : ["https://github.com/jkrame1"],
+    "descriptions" : [],
+    "repos": [{
+      "name" : "Betweener",
+      "url" : "https://github.com/jkrame1/Betweener",
+      "links" : [],
+      "descriptions" : [],
+      "images" : []
+    }]
+  },
+  {
+    "name" : "kassu",
+    "urls" : ["https://github.com/kassu"],
+    "descriptions" : [],
+    "repos": [{
+      "name" : "kassutronics",
+      "url" : "https://github.com/kassu/kassutronics",
+      "links" : [],
+      "descriptions" : [],
+      "images" : []
+    }]
+  },
+  {
+    "name" : "hermflink",
+    "urls" : ["https://github.com/hermflink"],
+    "descriptions" : [],
+    "repos": [
+      {
+        "name" : "3320VCF",
+        "url" : "https://github.com/hermflink/3320VCF",
+        "links" : [],
+        "descriptions" : [
+          "Kicad project files of a CEM3320/AS3320 based VCF"
+        ],
+        "images" : []
+      },
+      {
+        "name" : "3330VCA",
+        "url" : "https://github.com/hermflink/3330VCA",
+        "links" : [],
+        "descriptions" : [
+          "Kicad project files of a AS3330 based dual VCA"
+        ],
+        "images" : []
+      },
+      {
+        "name" : "3310ADSR",
+        "url" : "https://github.com/hermflink/3310ADSR",
+        "links" : [],
+        "descriptions" : [
+          "Kicad project files of a dual ADSR based on two AS3310 components"
+        ],
+        "images" : []
+      },
+      {
+        "name" : "VCO1",
+        "url" : "https://github.com/hermflink/VCO1",
+        "links" : [],
+        "descriptions" : [
+          "Kicad files of a Voltage controlled oscillator with saw, pulse and triangle outputs.\n"
+        ],
+        "images" : []
+      }
+    ]
+  },
+  {
+    "name" : "covertneko",
+    "urls" : ["https://github.com/covertneko"],
+    "descriptions" : [],
+    "repos": [
+      {
+        "name" : "vcf-20",
+        "url" : "https://github.com/covertneko/vcf-20",
+        "links" : [],
+        "descriptions" : [
+          "Kicad project files for a compact multimode eurorack filter with MS-20 style resonance."
+        ],
+        "images" : []
+    }]
+  },
+  {
+    "name" : "matthewcieplak",
+    "urls" : ["https://github.com/matthewcieplak"],
+    "descriptions" : [],
+    "repos": [
+      {
+        "name" : "super-sixteen",
+        "url" : "https://github.com/matthewcieplak/super-sixteen",
+        "links" : [],
+        "descriptions" : [
+          "open-source/open-hardware sequencer for the Eurorack synthesizer format"
+        ],
+        "images" : []
+    }]
+  },
+  {
+    "name" : "attoparsec",
+    "urls" : ["https://github.com/attoparsec"],
+    "descriptions" : [],
+    "repos": [
+      {
+        "name" : "TruthTable",
+        "url" : "https://github.com/attoparsec/TruthTable",
+        "links" : ["https://youtu.be/MvsgOZwyrD4"],
+        "descriptions" : [],
+        "images" : []
+      },
+      {
+        "name" : "Node",
+        "url" : "https://github.com/attoparsec/Node",
+        "links" : [],
+        "descriptions" : [],
+        "images" : []
+      }]
+  }
+]
