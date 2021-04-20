@@ -4,7 +4,7 @@
   "urls" : ["https://github.com/pichenettes"],
   "descriptions" : ["Mutable Instruments / émilie gillet"],
   "repos": [{
-    "name" : "pichenettes/eurorack",
+    "name" : "eurorack",
     "url" : "https://github.com/pichenettes/eurorack",
     "links" : [],
     "descriptions" : [
@@ -163,13 +163,19 @@
   "urls" : ["https://github.com/shaduzlabs"],
   "descriptions" : [],
   "repos": [{
-    "name" : "shaduzlabs/synapse",
+    "name" : "synapse",
     "url" : "https://github.com/shaduzlabs/synapse",
     "links" : ["http://ornament-and-cri.me/hardware-basics/"],
     "descriptions" : [
       "Synapse is an Arduino shield (and corresponding library) which provides CV and Gate I/O for Arduino boards."
     ],
-    "images" : []
+    "images" :  [
+      {
+        "name": "synapse",
+        "url": "https://cloud.githubusercontent.com/assets/804931/13776151/e4bdfa4c-eaa8-11e5-8b88-48274cfd1437.png",
+        "description": "synapse CV / Gate / IO shield"
+      }
+    ]
   }]
 },
   {
@@ -179,36 +185,61 @@
   "repos":
   [
     {
-      "name": "mxmxmx/O_C",
+      "name": "O_C",
       "url" : "https://github.com/mxmxmx/O_C",
       "links" : ["http://ornament-and-cri.me/hardware-basics/"],
       "descriptions" : [
-        "Synapse is an Arduino shield (and corresponding library) which provides CV and Gate I/O for Arduino boards."
+        "eurorack / teensy 3.2 DAC8565 quad 16bit CV module w/ OLED display"
+      ],
+      "images" :  [
+        {
+          "name": "ornament & crime",
+          "url": "https://camo.githubusercontent.com/b6298b40092d76718e4314e94591550e0d4197768af020ecb196b9408b2f2385/68747470733a2f2f6661726d312e737461746963666c69636b722e636f6d2f3637362f32303039303737343639345f623536653535373639335f622e6a7067",
+          "description": "polymorphic CV generator"
+        }
       ]
     },
     {
-      "name": "mxmxmx/CV2Midi",
+      "name": "CV2Midi",
       "url" : "https://github.com/mxmxmx/CV2Midi",
       "links" : [],
       "descriptions" : [
-        "5 channel CV|midi converter"
-      ]
+        "5 channel CV midi converter"
+      ],
+      "images" :  [
+      {
+        "name": "5 channel CV",
+        "url": "https://camo.githubusercontent.com/d73a47d49de1f8e1ead6e8de8f84320f2114b97acd9962a00a78c872fa813d0a/68747470733a2f2f63322e737461746963666c69636b722e636f6d2f322f313738302f34333130353234363031355f386363363031663762655f682e6a7067",
+        "description": "midi converter"
+      }]
     },
     {
-      "name": "mxmxmx/minitrash",
+      "name": "minitrash",
       "url" : "https://github.com/mxmxmx/minitrash",
       "links" : [],
       "descriptions" : [
         "6HP teensy 3.1 / wm8731 codec thingie"
-      ]
+      ],
+      "images" :  [
+        {
+          "name": "6HP teensy 3.1",
+          "url": "https://camo.githubusercontent.com/936e2fdd8f250eafafeeed567bce8637c7039ab33bf71d702f1b206476d4bbac/68747470733a2f2f63322e737461746963666c69636b722e636f6d2f322f313633342f32343236373135333338335f343132386364366461315f632e6a7067",
+          "description": "wm8731 codec thingie"
+        }]
     },
     {
-      "name": "mxmxmx/CV2Midi",
-      "url" : "https://github.com/mxmxmx/CV2Midi",
-      "links" : ["5 channel CV|midi converter"],
+      "name": "terminal_tedium",
+      "url" : "https://github.com/mxmxmx/terminal_tedium",
+      "links" : [],
       "descriptions" : [
-        "5 channel CV|midi converter"
-      ]
+        "raspberry pi eurorack breakout"
+      ],
+      "images" :  [
+        {
+          "name": "terminal_tedium",
+          "url": "https://camo.githubusercontent.com/0193279a89040295a88d76e2db4238a461a1c33cd1146fc0513b8fbb382a1023/68747470733a2f2f6661726d312e737461746963666c69636b722e636f6d2f3432332f31393238303139343134365f343536383737306463665f632e6a7067",
+          "description": "raspberry pi eurorack breakout"
+        }]
     }
   ]
 },
@@ -217,11 +248,16 @@
     "urls" : ["https://github.com/bastl-instruments"],
     "descriptions" : [],
     "repos": [{
-      "name" : "bastl-instruments/eurorack",
-      "url" : "https://github.com/bastl-instruments/eurorack",
+      "name" : "kastle",
+      "url" : "https://github.com/bastl-instruments/kastle",
       "links" : [],
-      "descriptions" : [],
-      "images" : []
+      "descriptions" : ["(discontinued) mini modular synthesizer"],
+      "images" :  [
+        {
+          "name": "Kastle",
+          "url": "https://bastl-instruments.com/thumbs/instruments/kastle/kastle-synth/kastle_synth_01_product-400x330.jpg",
+          "description": "mini modular synthesizer"
+        }]
     }]
   },
   {
@@ -229,18 +265,28 @@
     "urls" : ["https://github.com/kweiwen"],
     "descriptions" : [],
     "repos": [{
-      "name" : "kweiwen/benjolin",
+      "name" : "benjolin",
       "url" : "https://github.com/kweiwen/benjolin",
       "links" : [],
-      "descriptions" : [],
-      "images" : []
+      "descriptions" : ["diy eurorack project based on rob hordijks benjolin"],
+      "images" :  [
+        {
+          "name": "benjolin",
+          "url": "https://cloud.githubusercontent.com/assets/15021145/25553005/d3c58190-2cda-11e7-86a0-99eca499a703.JPG",
+          "description": "diy eurorack project based on rob hordijks benjolin"
+        }]
       },
       {
-        "name" : "kweiwen/thinks",
+        "name" : "thinks",
         "url" : "https://github.com/kweiwen/thinks",
         "links" : [],
-        "descriptions" : [],
-        "images" : []
+        "descriptions" : ["a modification eurorack project based on mutable links"],
+        "images" :  [
+          {
+            "name": "thinks",
+            "url": "https://user-images.githubusercontent.com/15021145/30574703-72b73fa0-9d2e-11e7-863c-96f330bda927.jpg",
+            "description": " based on mutable links"
+          }]
       }]
   },
   {
@@ -252,7 +298,12 @@
       "url" : "https://github.com/cutlasses/AudioFreezeV2",
       "links" : [],
       "descriptions" : [],
-      "images" : []
+      "images" :  [
+      {
+        "name": "AudioFreeze",
+        "url": "https://camo.githubusercontent.com/12c7071affaf41cf822eb3812b3b2d2a77fd12df29681fda7ac2170e09257e49/687474703a2f2f696d672e796f75747562652e636f6d2f76692f6769622d5552706c4a78492f302e6a7067",
+        "description": "AudioFreeze Teensy based Eurorack module"
+      }]
     }]
   },
   {
@@ -261,7 +312,7 @@
     "descriptions" : [],
     "repos": [
       {
-        "name" : "Eagle libraries",
+        "name" : "Eagle",
         "url" : "https://github.com/jamescarruthers/Eagle",
         "links" : [],
         "descriptions" : [],
@@ -480,7 +531,7 @@
         "url" : "https://github.com/hermflink/VCO1",
         "links" : [],
         "descriptions" : [
-          "Kicad files of a Voltage controlled oscillator with saw, pulse and triangle outputs.\n"
+          "Kicad files of a Voltage controlled oscillator with saw, pulse and triangle outputs."
         ],
         "images" : []
       }
