@@ -605,19 +605,36 @@
     "name" : "ctag-fh-kiel",
     "urls" : ["https://github.com/ctag-fh-kiel"],
     "descriptions" : [],
-    "repos": [{
-      "name" : "ctag-straempler",
-      "url" : "https://github.com/ctag-fh-kiel/ctag-straempler",
-      "links" : [],
-      "descriptions" : [
-        "ESP32 Eurorack Audio Synthesis Module"
-      ],
-      "images" : [{
-        "name": "ctag-fh-kiel",
-        "url": "https://raw.githubusercontent.com/wiki/ctag-fh-kiel/ctag-straempler/img/straempler-boot.jpg",
-        "description": "CTAG Straempler"
+    "repos": [
+      {
+        "name" : "ctag-straempler",
+        "url" : "https://github.com/ctag-fh-kiel/ctag-straempler",
+        "links" : [],
+        "descriptions" : [
+          "ESP32 Eurorack Audio Synthesis Module"
+        ],
+        "images" : [{
+          "name": "ctag-fh-kiel",
+          "url": "https://raw.githubusercontent.com/wiki/ctag-fh-kiel/ctag-straempler/img/straempler-boot.jpg",
+          "description": "CTAG Straempler"
+        }]
+      },
+      {
+        "name" : "ctag-tbd",
+        "url" : "https://github.com/ctag-fh-kiel/ctag-tbd",
+        "links" : [],
+        "descriptions" : [
+          "Open source Eurorack sound module based on the ESP32",
+          "* The eierlegende Wollmilchsau (German for swiss army) audio processing module",
+          "* Offering already more than 30 high quality audio generators and effects",
+          "* With an easy to extend audio plugin architecture"
+        ],
+        "images" : [{
+          "name": "ctag-fh-kiel",
+          "url": "https://raw.githubusercontent.com/ctag-fh-kiel/ctag-tbd/master/tbd.png",
+          "description": "tbd"
+        }]
       }]
-    }]
   },
   {
     "name" : "minisystem",
