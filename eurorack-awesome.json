@@ -8,31 +8,32 @@
     "url" : "https://github.com/pichenettes/eurorack",
     "links" : [],
     "descriptions" : [
-      "Blinds: Quad VC-polarizer.",
-      "Braids: Macro-oscillator. ",
-      "Branches: Dual Bernoulli gate.",
-      "Clouds: Texture synthesizer.",
-      "Ears: Contact microphone. ",
-      "Edges: Quad chiptune digital oscillator.",
-      "Elements: Modal synthesizer.",
-      "Frames: Keyframer/mixer.",
-      "Grids: Topographic drum sequencer.",
-      "Kinks: Utility module - rectifier, analog logic, S&H, noise.",
-      "Links: Utility module - buffer, mixer.",
-      "Marbles: Random sampler.",
-      "Peaks: Dual trigger converter.",
-      "Plaits: Macro oscillator. ",
-      "Rings: Resonator. ",
-      "Ripples: Liquid 2-pole BP, 2-pole LP and 4-pole LP filter.",
-      "Shades: Triple attenuverter.",
-      "Shelves: EQ filter. ",
-      "Stages: Segment generator.",
-      "Streams: Dual dynamics gate.",
-      "Tides: Tidal modulator. ",
-      "Veils: Quad VCA.",
-      "Volts: +5V power module.",
-      "Warps: Meta-modulator.",
-      "Yarns: MIDI interface."
+      "**Mutable Instruments' Eurorack Modules**",
+      " * **Blinds**: Quad VC-polarizer.",
+      " * **Braids**: Macro-oscillator. ",
+      " * **Branches**: Dual Bernoulli gate.",
+      " * **Clouds**: Texture synthesizer.",
+      " * **Ears**: Contact microphone. ",
+      " * **Edges**: Quad chiptune digital oscillator.",
+      " * **Elements**: Modal synthesizer.",
+      " * **Frames**: Keyframer/mixer.",
+      " * **Grids**: Topographic drum sequencer.",
+      " * **Kinks**: Utility module - rectifier, analog logic, S&H, noise.",
+      " * **Links**: Utility module - buffer, mixer.",
+      " * **Marbles**: Random sampler.",
+      " * **Peaks**: Dual trigger converter.",
+      " * **Plaits**: Macro oscillator. ",
+      " * **Rings**: Resonator. ",
+      " * **Ripples**: Liquid 2-pole BP, 2-pole LP and 4-pole LP filter.",
+      " * **Shades**: Triple attenuverter.",
+      " * **Shelves**: EQ filter. ",
+      " * **Stages**: Segment generator.",
+      " * **Streams**: Dual dynamics gate.",
+      " * **Tides**: Tidal modulator. ",
+      " * **Veils**: Quad VCA.",
+      " * **Volts**: +5V power module.",
+      " * **Warps**: Meta-modulator.",
+      " * **Yarns**: MIDI interface."
     ],
     "images" :  [
       {
@@ -158,6 +159,235 @@
     ]
   }]
 },
+  {
+    "name" : "erica-synths",
+    "urls" : ["https://github.com/erica-synths"],
+    "descriptions" : [],
+    "repos": [
+      {
+        "name" : "diy-eurorack",
+        "url" : "https://github.com/erica-synths/diy-eurorack",
+        "links" : [],
+        "descriptions" : [
+          "**Erica Synths DIY Eurorack Modules**",
+          " * **Bassline**: all in one synth voice for acid basslines and drones",
+          " * **BBD delay/flanger**: all analogue effects unit based on V3205 BBD IC",
+          " * **Delay**: tape and digital delay unit with tap tempo, tempo sync, reverse, hold and add functions",
+          " * **Dual VCA**: Polivoks architecture inspired dual VCA, rare Russian differential opamps are now replaced with AS3360",
+          " * **Envelope**: recreation of Polivoks envelope generator with loop and end of attack functions",
+          " * **MIDI-CV**: Polivoks functionality inspired dual MIDI-CV converter with glide function",
+          " * **Mixer**: simple 3 chanel audio mixer",
+          " * **Modulator**: Polivoks functionality inspired LFO, noise and S&H module",
+          " * **Output**: Output module with headphone amplifier",
+          " * **Polivoks VCF**: authentic recreation of the Polivoks VCF",
+          " * **Swamp**: our take of Wogglebug module with lots of unique extras",
+          " * **VCO3**: Polivoks inspired VCO with nice extra – VCO Sync input"
+        ],
+        "images" : [{
+          "name": "erica-synths",
+          "url": "https://www.ericasynths.lv/media/DIY_Bassline_prew.jpg.240x385_q100_crop.jpg",
+          "description": "Bassline"
+        },
+          {
+            "name": "erica-synths",
+            "url": "https://www.ericasynths.lv/media/DIY_stereo_delay_prew.jpg.210x385_q100_crop.jpg",
+            "description": "BBD delay/flanger"
+          },
+          {
+            "name": "erica-synths",
+            "url": "https://www.ericasynths.lv/media/DIY_DELAY_visual_2.1.jpg.210x385_q100_crop.jpg",
+            "description": "Delay"
+          },
+          {
+            "name": "erica-synths",
+            "url": "https://www.ericasynths.lv/media/diy_polivoks_vca.png.120x385_q100_crop.png",
+            "description": "Dual VCA"
+          },
+          {
+            "name": "erica-synths",
+            "url": "https://www.ericasynths.lv/media/diy_envelope.png.120x385_q100_crop.png",
+            "description": "Envelope"
+          },
+          {
+            "name": "erica-synths",
+            "url": "https://www.ericasynths.lv/media/diy_midi_cv.png.90x385_q100_crop.png",
+            "description": "MIDI-CV"
+          },
+          {
+            "name": "erica-synths",
+            "url": "https://www.ericasynths.lv/media/diy_mixer.png.90x385_q100_crop.png",
+            "description": "Mixer"
+          },
+          {
+            "name": "erica-synths",
+            "url": "https://www.ericasynths.lv/media/diy_modulator.png.120x385_q100_crop.png",
+            "description": "Modulator"
+          },
+          {
+            "name": "erica-synths",
+            "url": "https://www.ericasynths.lv/media/diy_output.png.90x385_q100_crop.png",
+            "description": "Output"
+          },
+          {
+            "name": "erica-synths",
+            "url": "https://www.ericasynths.lv/media/diy_polivoks_vcf.png.150x385_q100_crop.png",
+            "description": "Polivoks VCF"
+          },
+          {
+            "name": "erica-synths",
+            "url": "https://www.ericasynths.lv/media/diy_SWAMP.png.210x385_q100_crop.png",
+            "description": "Swamp"
+          },
+          {
+            "name": "erica-synths",
+            "url": "https://www.ericasynths.lv/media/diy_polivoks_vcf.png.150x385_q100_crop.png",
+            "description": "VCO3"
+          }]
+      }]
+  },
+  {
+    "name" : "forestcaver",
+    "urls" : ["https://github.com/shaduzlabs"],
+    "descriptions" : [],
+    "repos": [{
+      "name" : "Analog-Voice",
+      "url" : "https://github.com/forestcaver/Analog-Voice",
+      "links" : [],
+      "descriptions" : [
+        "**analog voice modules**",
+        " * **3340 VCO**",
+        " * **3320 LPF**",
+        " * **Phones** (Headphone Amp)",
+        " * **LPG**",
+        " * **HPF**",
+        " * **Dual ASR**",
+        " * **Dual VCA**",
+        " * **Wasp**",
+        " * **ADSR**",
+        " * **LPF 2**",
+        " * **Module Tester Module**",
+        " * **Dual polarising VCA**",
+        " * **Matrix Mixer**",
+        " * **TZFM VCO**"
+      ],
+      "images" : [
+        {
+          "name": "forestcaver",
+          "url": "https://raw.githubusercontent.com/forestcaver/Analog-Voice/master/images/3340_vco.jpg",
+          "description": "3340 VCO"
+        },
+        {
+          "name": "forestcaver",
+          "url": "https://raw.githubusercontent.com/forestcaver/Analog-Voice/master/images/3320_lpf.jpg",
+          "description": "3320 LPF"
+        },
+        {
+          "name": "forestcaver",
+          "url": "https://raw.githubusercontent.com/forestcaver/Analog-Voice/master/images/AJH_Phones.jpg",
+          "description": "Phones (Headphone Amp)"
+        },
+        {
+          "name": "forestcaver",
+          "url": "https://raw.githubusercontent.com/forestcaver/Analog-Voice/master/images/AJH_lpg.jpg",
+          "description": "LPG"
+        },
+        {
+          "name": "forestcaver",
+          "url": "https://raw.githubusercontent.com/forestcaver/Analog-Voice/master/images/3320_hpf.jpg",
+          "description": "HPF"
+        },
+        {
+          "name": "forestcaver",
+          "url": "https://raw.githubusercontent.com/forestcaver/Analog-Voice/master/images/AJH_ASR_01.jpg",
+          "description": "Dual ASR"
+        },
+        {
+          "name": "forestcaver",
+          "url": "https://raw.githubusercontent.com/forestcaver/Analog-Voice/master/images/013-modular_ajh_vca1.jpg",
+          "description": "Dual VCA"
+        },
+        {
+          "name": "forestcaver",
+          "url": "https://raw.githubusercontent.com/forestcaver/Analog-Voice/master/images/018-modular_ajh_wasp.jpg",
+          "description": "Wasp"
+        },
+        {
+          "name": "forestcaver",
+          "url": "https://raw.githubusercontent.com/forestcaver/Analog-Voice/master/images/020-modular_ajh_adsr.jpg",
+          "description": "ADSR"
+        },
+        {
+          "name": "forestcaver",
+          "url": "https://raw.githubusercontent.com/forestcaver/Analog-Voice/master/images/022-modular_ajh_lpf2.jpg",
+          "description": "LPF 2"
+        },
+        {
+          "name": "forestcaver",
+          "url": "https://raw.githubusercontent.com/forestcaver/Analog-Voice/master/images/024-modular_ajh_module_tester.jpg",
+          "description": "Module Tester Module"
+        },
+        {
+          "name": "forestcaver",
+          "url": "https://raw.githubusercontent.com/forestcaver/Analog-Voice/master/images/2B_01.jpg",
+          "description": "Dual polarising VCA"
+        },
+        {
+          "name": "forestcaver",
+          "url": "https://raw.githubusercontent.com/forestcaver/Analog-Voice/master/images/025-modular_ajh_mm.jpg",
+          "description": "Matrix Mixer"
+        },
+        {
+          "name": "forestcaver",
+          "url": "https://raw.githubusercontent.com/forestcaver/Analog-Voice/master/images/027-modular_ajh_tzfm.jpg",
+          "description": "TZFM VCO"
+        }
+      ]
+    }]
+  },
+  {
+    "name" : "nickajeglin",
+    "urls" : ["https://github.com/nickajeglin"],
+    "descriptions" : [],
+    "repos": [{
+      "name" : "Eurorack-pcbs",
+      "url" : "https://github.com/nickajeglin/Eurorack-pcbs",
+      "links" : [],
+      "descriptions" : [
+        "A collection of easy to solder DIY eurorack PCB's",
+        "* Dual log/lin VCA",
+        "* Mixer",
+        "* Utility LFO (8K LFO)",
+        "* Buffered Mult",
+        "* Analog Logic"
+      ],
+      "images" : [
+        {
+          "name": "nickajeglin",
+          "url": "https://camo.githubusercontent.com/5b1760cff7b9dff9be71aec076da5dda8e5dce89064a7f443aac20dc635885a7/68747470733a2f2f692e696d6775722e636f6d2f6a6a434c5751392e6a7067",
+          "description": "Dual log/lin VCA"
+        },
+        {
+          "name": "nickajeglin",
+          "url": "https://camo.githubusercontent.com/1ea63cfa206ecdca427462512b22c566d6f25c53e876bfb12f6dd28b5391e29c/68747470733a2f2f692e696d6775722e636f6d2f355263506f41492e6a7067",
+          "description": "VCO"
+        },
+        {
+          "name": "nickajeglin",
+          "url": "https://camo.githubusercontent.com/0e27c73b4cef917e7785c864acca316ad71467816eb81c270669f83a3a6b2d2d/68747470733a2f2f692e696d6775722e636f6d2f4239554f4a78472e706e67",
+          "description": "Utility LFO (8K LFO)"
+        },
+        {
+          "name": "nickajeglin",
+          "url": "https://camo.githubusercontent.com/99022575f6bb3d83c71c00298ab3731fbe999e73b0bc7277c2074f31df5c5cfd/68747470733a2f2f692e696d6775722e636f6d2f4e4a774565314a2e6a7067",
+          "description": "Buffered Mult"
+        },
+        {
+          "name": "nickajeglin",
+          "url": "https://camo.githubusercontent.com/e447cf438ad0416cb6319f24f0cd35e43819a3e6daaefb8f46a1e8d187c1daa3/68747470733a2f2f696d6775722e636f6d2f726f32706934322e706e67",
+          "description": "Analog Logic"
+        }]
+    }]
+  },
   {
   "name" : "shaduzlabs",
   "urls" : ["https://github.com/shaduzlabs"],
@@ -297,7 +527,7 @@
       "name" : "AudioFreezeV2",
       "url" : "https://github.com/cutlasses/AudioFreezeV2",
       "links" : [],
-      "descriptions" : [],
+      "descriptions" : ["AudioFreeze Teensy based Eurorack module"],
       "images" :  [
       {
         "name": "AudioFreeze",
@@ -307,26 +537,6 @@
     }]
   },
   {
-    "name" : "jamescarruthers",
-    "urls" : ["https://github.com/jamescarruthers"],
-    "descriptions" : [],
-    "repos": [
-      {
-        "name" : "Eagle",
-        "url" : "https://github.com/jamescarruthers/Eagle",
-        "links" : [],
-        "descriptions" : [],
-        "images" : []
-      },
-      {
-        "name" : "audioplayground",
-        "url" : "https://github.com/jamescarruthers/audioplayground",
-        "links" : [],
-        "descriptions" : [],
-        "images" : []
-      }]
-  },
-  {
     "name" : "mattb",
     "urls" : ["https://github.com/mattb"],
     "descriptions" : [],
@@ -334,8 +544,21 @@
       "name" : "teensy-cv",
       "url" : "https://github.com/mattb/teensy-cv",
       "links" : [],
-      "descriptions" : [],
-      "images" : []
+      "descriptions" : [
+        "An opamp board with attenuating pots on inputs to",
+        " * scale -5/+5V control voltage signals down to a voltage-referenced 0-2.5v range",
+        " * scale up output to -5/+5V range"],
+      "images" :  [
+      {
+        "name": "teensy-cv",
+        "url": "https://raw.githubusercontent.com/mattb/teensy-cv/master/teensy-cv-schematic.png",
+        "description": "circuit"
+      },
+        {
+          "name": "teensy-cv",
+          "url": "https://raw.githubusercontent.com/mattb/teensy-cv/master/teensy-cv-pcb.png",
+          "description": "pcb"
+        }]
     }]
   },
   {
@@ -358,22 +581,24 @@
       "name" : "Eurorack",
       "url" : "https://github.com/ThoEvans/Eurorack",
       "links" : [],
-      "descriptions" : [],
-      "images" : []
-    }]
-  },
-  {
-    "name" : "nickajeglin",
-    "urls" : ["https://github.com/nickajeglin"],
-    "descriptions" : [],
-    "repos": [{
-      "name" : "Eurorack-pcbs",
-      "url" : "https://github.com/nickajeglin/Eurorack-pcbs",
-      "links" : ["http://ornament-and-cri.me/hardware-basics/"],
-      "descriptions" : [
-        "Synapse is an Arduino shield (and corresponding library) which provides CV and Gate I/O for Arduino boards."
-      ],
-      "images" : []
+      "descriptions" : ["Hardware design for Eurorack modular synthesizers", " * Dual LPF"," * Stereo Mixer Euro"," * Stereo VCA"],
+      "images" :  [
+        {
+          "name": "ThoEvans",
+          "url": "https://raw.githubusercontent.com/ThoEvans/Eurorack/master/Dual%20LPF/Dual%20LPF%20Schematic.png",
+          "description": "Dual LPF"
+        },
+        {
+          "name" : "ThoEvans",
+          "url": "https://raw.githubusercontent.com/ThoEvans/Eurorack/master/Stereo%20Mixer%20Euro/Stereo%20Mixer%20Schematic.png",
+          "description": "Stereo Mixer Euro"
+        },
+        {
+          "name": "ThoEvans",
+          "url": "https://raw.githubusercontent.com/ThoEvans/Eurorack/master/Stereo%20VCA/Stereo%20VCA%20Schematic.png",
+          "description": "Stereo VCA"
+        }
+      ]
     }]
   },
   {
@@ -381,26 +606,17 @@
     "urls" : ["https://github.com/ctag-fh-kiel"],
     "descriptions" : [],
     "repos": [{
-      "name" : "esp32-eurorack-audio",
-      "url" : "https://github.com/ctag-fh-kiel/esp32-eurorack-audio",
-      "links" : ["http://ornament-and-cri.me/hardware-basics/"],
-      "descriptions" : [
-        "Synapse is an Arduino shield (and corresponding library) which provides CV and Gate I/O for Arduino boards."
-      ],
-      "images" : []
-    }]
-  },
-  {
-    "name" : "deladriere",
-    "urls" : ["https://github.com/deladriere"],
-    "descriptions" : [],
-    "repos": [
-      {
-      "name" : "euro-modules",
-      "url" : "https://github.com/deladriere/euro-modules",
+      "name" : "ctag-straempler",
+      "url" : "https://github.com/ctag-fh-kiel/ctag-straempler",
       "links" : [],
-      "descriptions" : [],
-      "images" : []
+      "descriptions" : [
+        "ESP32 Eurorack Audio Synthesis Module"
+      ],
+      "images" : [{
+        "name": "ctag-fh-kiel",
+        "url": "https://raw.githubusercontent.com/wiki/ctag-fh-kiel/ctag-straempler/img/straempler-boot.jpg",
+        "description": "CTAG Straempler"
+      }]
     }]
   },
   {
@@ -411,7 +627,13 @@
       "name" : "Eurorack",
       "url" : "https://github.com/minisystem/Eurorack",
       "links" : [],
-      "descriptions" : [],
+      "descriptions" : ["Kicad designs for eurorack modules"," * Eurorack Mixer", " * Eurorack VCA", " * Octave Switch", " * VC ADSR", " * picoVCO - corrected"],
+      "images" : []
+    },{
+      "name" : "JOVE",
+      "url" : "https://github.com/minisystem/JOVE",
+      "links" : [],
+      "descriptions" : ["Roland Jupiter 6 inspired multimode filter in 14HP Eurorack format"],
       "images" : []
     }]
   },
@@ -430,33 +652,6 @@
     }]
   },
   {
-    "name" : "forestcaver",
-    "urls" : ["https://github.com/shaduzlabs"],
-    "descriptions" : [],
-    "repos": [{
-      "name" : "Analog-Voice",
-      "url" : "https://github.com/forestcaver/Analog-Voice",
-      "links" : ["http://ornament-and-cri.me/hardware-basics/"],
-      "descriptions" : [ "analog voice modules" ],
-      "images" : []
-    }]
-  },
-  {
-    "name" : "erica-synths",
-    "urls" : ["https://github.com/erica-synths"],
-    "descriptions" : [],
-    "repos": [
-      {
-        "name" : "diy-eurorack",
-        "url" : "https://github.com/erica-synths/diy-eurorack",
-        "links" : [],
-        "descriptions" : [
-          "Erica Synths DIY Eurorack Modules"
-        ],
-        "images" : []
-      }]
-  },
-  {
     "name" : "16n-faderbank",
     "urls" : ["https://github.com/16n-faderbank"],
     "descriptions" : [],
@@ -467,7 +662,11 @@
       "descriptions" : [
         "Sixteen faders, a Teensy, MIDI over USB and jack, CV out, and I2C out"
       ],
-      "images" : []
+      "images" : [{
+      "name": "16n-faderbank",
+      "url": "https://raw.githubusercontent.com/16n-faderbank/16n/main/faderbank.jpg",
+      "description": "16n"
+    }]
     }]
   },
   {
@@ -478,20 +677,12 @@
       "name" : "Betweener",
       "url" : "https://github.com/jkrame1/Betweener",
       "links" : [],
-      "descriptions" : [],
-      "images" : []
-    }]
-  },
-  {
-    "name" : "kassu",
-    "urls" : ["https://github.com/kassu"],
-    "descriptions" : [],
-    "repos": [{
-      "name" : "kassutronics",
-      "url" : "https://github.com/kassu/kassutronics",
-      "links" : [],
-      "descriptions" : [],
-      "images" : []
+      "descriptions" : ["Teensy 3.2 based Eurorack DIY module", "* 4 built-in control voltage (CV) inputs", " * 4 trigger inputs", " * 4 knobs", " * 4 CV outputs"],
+      "images" : [{
+        "name": "ctag-fh-kiel",
+        "url": "https://raw.githubusercontent.com/jkrame1/Betweener/master/Hardware/Betweener%20Build%20Images/Betweener-75.jpg",
+        "description": "Betweener"
+      }]
     }]
   },
   {
@@ -564,7 +755,11 @@
         "descriptions" : [
           "open-source/open-hardware sequencer for the Eurorack synthesizer format"
         ],
-        "images" : []
+        "images" : [{
+          "name": "matthewcieplak",
+          "url": "https://camo.githubusercontent.com/46c538cadf57bc482dfb7e2370e2b374a3ac7be3d1519428b34549e951a78f89/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f65787472616c696665696e737472756d656e74732e636f6d2f696d616765732f70726f647563742f73757065727369787465656e2d6d6574616c2e6a7067",
+          "description": "super-sixteen"
+      }]
     }]
   },
   {
@@ -576,7 +771,7 @@
         "name" : "TruthTable",
         "url" : "https://github.com/attoparsec/TruthTable",
         "links" : ["https://youtu.be/MvsgOZwyrD4"],
-        "descriptions" : [],
+        "descriptions" : ["Eurorack Truth Table module"],
         "images" : []
       },
       {
