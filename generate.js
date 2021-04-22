@@ -22,14 +22,10 @@ for (a in awesome) {
 
     for (let r in awesomeGroup.repos) {
         const repo = awesomeGroup.repos[r];
-        let str = (r == 0)?
+        let str =
             "| **[" + awesomeGroup.name+"]("+awesomeGroup.urls[0]+")**" + " <br/> " +
             "[" + repo.name + "](" + repo.url + ")  <br/> " + stars(awesomeGroup.name + "/" + repo.name) +
-            "|  "
-            :
-            "|  "+
-            "[" + repo.name + "](" + repo.url + ")  <br/> " + stars(awesomeGroup.name + "/" + repo.name) +
-            "  |  ";
+            "|  ";
 
         for (i in repo.images) {
             const image = repo.images[i];
