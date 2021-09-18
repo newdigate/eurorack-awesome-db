@@ -798,5 +798,17 @@
         "descriptions" : [],
         "images" : []
       }]
+  },
+  {
+    "name" : "THX2112",
+    "urls" : ["https://github.com/THX2112"],
+    "descriptions" : [],
+    "repos": [{
+      "name" : "12VAC-Eurorack-Power-Supply",
+      "url" : "https://github.com/THX2112/12VAC-Eurorack-Power-Supply",
+      "links" : [],
+      "descriptions" : ["A simple +12 -12 power supply for Eurorack using 12VAC adapters"],
+      "images" :  []
+    }]
   }
 ]
