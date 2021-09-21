@@ -810,5 +810,45 @@
       "descriptions" : ["A simple +12 -12 power supply for Eurorack using 12VAC adapters"],
       "images" :  []
     }]
+  },
+  {
+    "name" : "polykit",
+    "urls" : ["https://github.com/polykit"],
+    "descriptions" : [],
+    "repos": [{
+      "name" : "kosmo-multitool",
+      "url" : "https://github.com/polykit/kosmo-multitool",
+      "links" : [],
+      "descriptions" : ["Arduino development platform for DIY synthesizer enthusiasts."],
+      "images" :  [{
+        "url":"https://github.com/polykit/kosmo-multitool/raw/master/kosmo-multitool-panel.png",
+        "name":"kosmo-multitool-panel",
+        "description" :"kosmo-multitool-panel"}]
+    },{
+      "name" : "pico-dco",
+      "url" : "https://github.com/polykit/pico-dco",
+      "links" : [],
+      "descriptions" : ["This repository contains source code, schematics and PCB for a digitally controlled oscillator (DCO) with up to 6 voices which are driven by a Raspberry Pi Pico."],
+      "images" :  [{
+        "name" : "pico-dco-pcb",
+        "url":"https://github.com/polykit/pico-dco/raw/master/pico-dco-pcb.png",
+        "description":"pico-dco-pcb"}
+      ]
+    }]
+  },
+  {
+    "name" : "newdigate",
+    "urls" : ["https://github.com/newdigate"],
+    "descriptions" : [],
+    "repos": [{
+      "name" : "teensy-eurorack",
+      "url" : "https://github.com/newdigate/teensy-eurorack",
+      "links" : [],
+      "descriptions" : ["open source hardware and software for a 30-channel (14 in / 16 out) 16-bit analog teensy 4.1 eurorack shield"],
+      "images" :  [{
+        "name":"teensy-eurorack",
+        "url":"https://github.com/newdigate/teensy-eurorack/raw/master/hardware/images/teensy-eurorack.svg",
+        "description":"teensy-eurorack"}]
+    }]
   }
 ]
